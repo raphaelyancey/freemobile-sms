@@ -23,3 +23,4 @@ $ freemobile-sms -u [user ID] -k [API key] -m "Hello world!"
 ## TODO
 
 - Reading from a `~/.freemobile` configuration file
+- Package for PyPi and easy installation with `pip install freemobile-sms`
